@@ -1,0 +1,13 @@
+Hi everyone,
+
+This is Mingfei, I have finished my work with the 3 sample data files, which are receipts, users, brands data. I hope this email can make my work easy to follow and understand. I used Python to load, clean and format the data, so the data can be read, observe easily. Other results are finished in SQL. By go through the data, here are my concerns, comments and questions:
+
+1. There are many missing data, the brandcodes in the receipts table should have corresponding values in the brands, it can cause significant bias and inaccuracy. The id in the users table should be unique, and the multi records can lead to data integrity problems.
+
+2. Most of the time were spent on data cleaning and wrangling, such as the date, the dictionaries. A better way to record the data should be implemented. Or, is there a reason why the data are stored like this? I would like to know more about this.
+
+Please feel free to schedule a time with me, so that I can learn more about this dataset and make some improvements about my work.
+
+
+Best,
+Mingfei
